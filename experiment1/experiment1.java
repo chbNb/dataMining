@@ -242,7 +242,7 @@ public class experiment1 {
         );
 
         int length=dataSourceTxt.size();
-        for(int i=length-1;i>99;i--){
+        for(int i=length-1;i>100;i--){
             dataSourceTxt.remove(i);
         }
     }
